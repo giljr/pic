@@ -1,5 +1,5 @@
 # pic
-Watch the videos of the series on youtube. also!!!
+Watch the videos of the series on you.tube also!!!
 --------------------
 PlayList:
 PIC SERIES ENJOYMENT
