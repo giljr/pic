@@ -5,6 +5,7 @@ By the time that we studying PIC with https://www.youtube.com/playlist?list=PLZ8
 we experiencing and sharing the joy of learning about microcontrollers . 
 Follow https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0 and there. 
 Notes:
+
 GTA_V1.0 - guide your effort to clean code. index & verbose - check it!
 
 
