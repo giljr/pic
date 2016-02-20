@@ -9,7 +9,7 @@
 ;     20160216:
 ;       - initial release (LB);
 ; * Description:
-;     This code demonstrates how to how to use buttons to trigger LEDs.
+;     This code demonstrates how to use buttons to trigger LEDs.
 ; * Test configuration:
 ;     MCU:             PIC16F628A
 ;                      http://www.microchip.com/wwwproducts/en/en010210
