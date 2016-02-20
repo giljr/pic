@@ -20,7 +20,7 @@
 ;                      http://www.
 ;      SW:             MPLAB X IDE v3.20
 ;                      http://www.microchip.com/mplab/mplab-x-ide
-; * NOTES: is a continuation of Part 1 - flashing LED
+; * NOTES: is a continuation of Part 1 - HelloWorld_LED_flasher.asm
 ; * Date : feb 2016 
 ;*/
 
