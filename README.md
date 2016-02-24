@@ -1,4 +1,4 @@
-# pic
+# picAsm serie
 Watch the videos of the series on you.tube also!!!
 --------------------
 PlayList:
