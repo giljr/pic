@@ -1,5 +1,6 @@
 # picAsm serie
 Watch the videos of the series on you.tube also!!!
+https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0
 --------------------
 PlayList:
 PIC SERIES ENJOYMENT
