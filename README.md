@@ -4,7 +4,7 @@ PicAsm - Assembler Right Now!!!
 Desc:
 We unveil the stone paths to demystify the language closer to what the human can get to the machine !!!
 Index: 
-GTA_V1.0 --------------------00 # PicAsm - Guide your effort to clean code.---------------you.tube vid : https://youtu.be/SPFdQg5iHzU
+GTA_V1.0 -----------------------00 # PicAsm - Guide your effort to clean code.---------------you.tube vid : https://youtu.be/SPFdQg5iHzU
 
 HelloWorld_LED_flasher.asm - 01 # PicAsm - Hello World Assembler - Flashing LED!!!-you.tube vid : https://youtu.be/AkZfCgd943Q
 
