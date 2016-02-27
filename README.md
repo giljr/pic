@@ -17,10 +17,9 @@ HD44780U LCD 16 x 2------------05 # PicAsm - Connecting ...better hard finger!!!
 
 
 
-# pic enjoyment serie
+# PIC SERIES ENJOYMENT
 --------------------
 PlayList:https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0
-PIC SERIES ENJOYMENT
 --------------------
 Desc:
 By the time that we studying PIC with https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh 
