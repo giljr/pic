@@ -1,3 +1,4 @@
+Watch the videos of the series on you.tube also!!!
 PlayList:https://www.youtube.com/playlist?list=PLK3PeNcUzb8TGekGLilHvHcUw2GUAEIjC
 PicAsm - Assembler Right Now!!!
 -------------------------------
@@ -17,7 +18,6 @@ HD44780U LCD 16 x 2------------05 # PicAsm - Connecting ...better hard finger!!!
 
 
 # pic enjoyment serie
-Watch the videos of the series on you.tube also!!!
 --------------------
 PlayList:https://www.youtube.com/playlist?list=PLK3PeNcUzb8TYBUxpC2Y9xaXN0wBSY2e0
 PIC SERIES ENJOYMENT
